@@ -83,7 +83,7 @@ CREATE TABLE gold.fact_sales (
   * File Name: /gold.fact_sales.csv
   * Format: `CSV`
   * Encoding: `UTF8`
- src="<img width="871" height="674" alt="image" src="https://github.com/user-attachments/assets/483f7c6a-8075-43f3-862d-a7bb4b2bcae4" />
+ <img width="871" height="674" alt="image" src="https://github.com/user-attachments/assets/483f7c6a-8075-43f3-862d-a7bb4b2bcae4" />
 
 ---
 
@@ -103,7 +103,7 @@ Understand how sales performance evolves over time by analyzing monthly and year
 * `DATE_TRUNC('month', date)`
 * `TO_CHAR(date, 'YYYY-Mon')`
 
-### 🛠 Key Metrics:
+###  Key Metrics:
 
 * Total Sales per Month/Year
 * Total Unique Customers
