@@ -88,6 +88,8 @@ CREATE TABLE gold.fact_sales (
 ---
 
 This project employs **six core SQL analytical techniques** to extract insights from sales, customer, and product data. Each method serves a unique purpose in understanding trends, behavior, and segmentation for better decision-making.
+<img width="1000" height="763" alt="image" src="https://github.com/user-attachments/assets/c53d1955-7a88-406c-94fe-7a4be8176956" />
+
 
 ---
 
