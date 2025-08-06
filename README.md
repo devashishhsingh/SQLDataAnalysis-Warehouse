@@ -83,7 +83,7 @@ CREATE TABLE gold.fact_sales (
   * File Name: /gold.fact_sales.csv
   * Format: `CSV`
   * Encoding: `UTF8`
-<img width="873" height="685" alt="image" src="<img width="871" height="674" alt="image" src="https://github.com/user-attachments/assets/483f7c6a-8075-43f3-862d-a7bb4b2bcae4" />
+ src="<img width="871" height="674" alt="image" src="https://github.com/user-attachments/assets/483f7c6a-8075-43f3-862d-a7bb4b2bcae4" />
 
 ---
 
@@ -217,7 +217,7 @@ Create a comprehensive customer profile by analyzing demographics, purchase hist
 * `GROUP BY` customer-level
 * Metrics derived from lifespan, recency, AOV, and frequency
 
-### 🛠 Key Metrics:
+###  Key Metrics:
 
 * Total Orders, Sales, Quantity, Products
 * Lifespan in Months
